@@ -1,0 +1,29 @@
+body{
+    background: gray;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    font-style: italic;
+}
+
+ul{
+    list-style-type: none;
+}
+
+#vid{
+    padding: 30px;
+    width:auto;
+	max-width:100%;
+	height:auto;
+}
+
+img {
+    padding: 30px;
+	width:auto;
+	max-width:100%;
+	height:auto;
+}
